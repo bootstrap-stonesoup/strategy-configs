@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: test-mvp-component-wjfw
+    repository: quay.io/redhat-appstudio-qe/test-release-images
